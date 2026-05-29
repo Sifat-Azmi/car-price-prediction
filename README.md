@@ -155,5 +155,4 @@ Through this project I gained practical experience in:
 
 Bachelor of Data Science Student
 
-This project was developed as part of my machine learning and data science learning journey to gain practical experience with real-world regression problems.
-
+This project was completed as part of a university Hands-on Machine Learning and Data Science coursework project. It demonstrates the application of data preprocessing, exploratory data analysis, feature engineering, machine learning model development, hyperparameter tuning, and model evaluation techniques on a real-world used car price prediction problem.
